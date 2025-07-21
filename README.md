@@ -10,8 +10,8 @@ REST API для управления заказами мясной продук�
 ### Установка
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/fomich-sb/php_laravel_test_meatmanager.git
-cd php_laravel_test_meatmanager
+git clone https://github.com/fomich-sb/php_laravel_test_meatmanager_api.git
+cd php_laravel_test_meatmanager_api
 
 # Установить зависимости
 composer install
