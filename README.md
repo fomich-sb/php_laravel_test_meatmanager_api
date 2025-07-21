@@ -28,7 +28,7 @@ php artisan migrate --seed
 
 # Запуск сервера
 php artisan serve
-Доступно на http://localhost:8080
+Доступно на http://localhost:8000
 📚 Документация API
 После запуска откройте в браузере:
 http://localhost:8000/api/documentation
